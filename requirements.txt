@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+xgboost
+optuna
+gradio
+matplotlib
+seaborn
+jupyter
